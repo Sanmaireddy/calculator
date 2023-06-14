@@ -1,0 +1,30 @@
+body {
+  margin: 0px;
+  background-color: antiquewhite;
+  text-align: center;
+}
+#Calculator {
+  margin-top: 150px;
+  display: inline-table; /*I didn't know this.God made me select this.*/
+  background-color: aqua;
+}
+.btn {
+  background-color: cadetblue;
+  height: 50px;
+  width: 50px;
+  margin: 2px;
+  padding: 2rem;
+}
+.new {
+  background-color: cadetblue;
+  height: 50px;
+  width: 50px;
+  margin: 2px;
+  padding: 2rem 4.1rem;
+}
+#display {
+  height: 100px;
+  max-width: 280px;
+  padding-right: 10px;
+  background-color: azure;
+}
